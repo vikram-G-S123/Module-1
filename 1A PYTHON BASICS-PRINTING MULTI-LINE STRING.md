@@ -30,5 +30,16 @@ print(string_double_quotes)
 ```
 ## OUTPUT
 
+I am a string literal
+... has more than one
+... line
+... placed inside triple single quotes
+
+I am a string literal
+... has more than one
+... line
+... placed inside triple double quotes
+
 ## RESULT
 
+All the programs were executed successfully and the expected outputs were obtained.
