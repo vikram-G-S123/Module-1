@@ -31,4 +31,11 @@ print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
 
 ## OUTPUT
 
+Enter first number: 10
+Enter second number: 5
+Enter third number: 8
+The minimum of 10, 5, 8 is 5
+
 ## RESULT
+
+All the programs were executed successfully and the expected outputs were obtained.
