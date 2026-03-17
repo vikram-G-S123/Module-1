@@ -13,14 +13,14 @@ To write a Python program for adding two complex numbers, and get the user input
 
 ## PROGRAM
 ```python
-# Reg.No-
-#Name-
-#Write your code here
+c = complex(3, 4)
+print("Complex Number:", c)
 
 ```
 
 ## OUTPUT
 
+Complex Number: (3+4j)
 
 ## RESULT
 Thus the python program for  adding two complex numbers has been implemented and executed successfully.
